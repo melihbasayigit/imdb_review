@@ -2,7 +2,7 @@ import random
 import csv
 
 # Veri sayısı
-num_data = 1000000
+num_data = 10000
 
 # CSV dosyasının adı
 csv_file = "random_veri.csv"

@@ -31,3 +31,5 @@ sampled_df_shuffled = sampled_df.sample(frac=1, random_state=seed_value).reset_i
 print(sampled_df_shuffled)
 
 print(sampled_df_shuffled['rating'].value_counts())
+
+print("Toplam satır sayısı:", df.shape[0])
